@@ -14,8 +14,11 @@ Dataset includes:
 <br>
 -IR images (night-time / thermal
 <br>
-METHODOLOGY:
+
+Methodology:
 <br>
+<br>
+
 The system follows a deep learning pipeline:
 <br>
 Data Preprocessing:
@@ -26,14 +29,20 @@ Data Preprocessing:
 <br>
 -Data augmentation
 <br>
+
 Feature Extraction:
+<br>
 <br>
 -CNN-based backbone (e.g., ResNet)
 <br>
+
 Feature Alignment:
+<br>
 <br>
 -Cross-modality feature learning
 -Metric learning / loss functions
+<br>
+<br>
 Matching & Retrieval:
 -Euclidean / cosine similarity
 -Ranking-based evaluation
