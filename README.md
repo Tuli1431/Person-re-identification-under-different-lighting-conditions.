@@ -5,7 +5,7 @@ This work is particularly useful for 24/7 surveillance systems, where RGB camera
 
 Dataset:
 <br>
-The project use SYSU-MM01 dataset.(Paper name- RGB-Infrared Cross-Modality Person Re-Identification) 
+The project used SYSU-MM01 dataset.(Paper name- RGB-Infrared Cross-Modality Person Re-Identification) 
 
 <br>
 Dataset includes:
