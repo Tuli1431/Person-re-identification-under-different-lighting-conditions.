@@ -5,9 +5,8 @@ This work is particularly useful for 24/7 surveillance systems, where RGB camera
 
 Dataset:
 <br>
-The project uses benchmark datasets such as:
-<br>
-RegDB Dataset (RGB–IR paired dataset)
+The project use SYSU-MM01 dataset.(Paper name- RGB-Infrared Cross-Modality Person Re-Identification) 
+
 <br>
 Dataset includes:
 <br>
