@@ -17,7 +17,6 @@ Dataset includes:
 
 Methodology:
 <br>
-<br>
 
 The system follows a deep learning pipeline:
 <br>
@@ -32,17 +31,18 @@ Data Preprocessing:
 
 Feature Extraction:
 <br>
-<br>
+
 -CNN-based backbone (e.g., ResNet)
 <br>
 
 Feature Alignment:
 <br>
-<br>
+
 -Cross-modality feature learning
 -Metric learning / loss functions
 <br>
-<br>
+
 Matching & Retrieval:
+<br>
 -Euclidean / cosine similarity
 -Ranking-based evaluation
