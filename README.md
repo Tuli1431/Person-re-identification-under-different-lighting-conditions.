@@ -12,7 +12,9 @@ Dataset includes:
 
 -RGB images (daytime)
 -IR images (night-time / thermal
+<br>
 METHODOLOGY:
+<br>
 The system follows a deep learning pipeline:
 
 Data Preprocessing:
